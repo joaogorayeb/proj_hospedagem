@@ -34,3 +34,42 @@ img {
     display: flex;
     align-items: center;
 }
+
+
+/* h3{
+    padding-top: 80px;
+}
+
+.produto{
+    padding: 10px;
+
+}
+
+.produto:hover{
+    background-color:  gold;
+    transition: all .5s linear;
+
+}
+
+.img-produto{
+    width: 100%;
+}
+
+button{
+    width: 100%;
+}
+
+.nome-produto{
+    font-weight: 600;
+}
+
+.preco{
+    padding: 5px 0;
+    font-weight: 500;
+}
+
+.descricao{
+    line-height: 1;
+    height: 40px;
+    overflow: hidden;
+} */
