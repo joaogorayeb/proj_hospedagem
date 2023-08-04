@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    background-color: #00e5ff;
+    padding: 50px;
+    text-align: center;
+}
+p{
+    padding: 7px;
+    border: 4px solid #00e5ff;
+}
